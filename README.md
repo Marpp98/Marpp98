@@ -22,11 +22,6 @@ Soy Mar Pérez, **Data Scientist** con una sólida trayectoria previa como **Dat
 | **IA Generativa & Orchestration** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=github&logoColor=white) ![Fabric](https://img.shields.io/badge/Fabric-8A2BE2?style=flat) |
 
 ---
-
-### 📊 Mis Estadísticas de GitHub
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Marpp98&layout=compact&theme=radical)
-
----
 ### 📫 Conectemos:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mar-perez-4ab85828a)
 
